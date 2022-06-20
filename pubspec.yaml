@@ -1,0 +1,87 @@
+name: iteung56
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/iteung56/assets/images/ellipse16.png
+    - packages/iteung56/assets/images/ellipse14.png
+    - packages/iteung56/assets/images/ellipse15.png
+    - packages/iteung56/assets/images/ellipse13.png
+    - packages/iteung56/assets/images/ellipse10.png
+    - packages/iteung56/assets/images/ellipse9.png
+    - packages/iteung56/assets/images/vector14.svg
+    - packages/iteung56/assets/images/vector.svg
+    - packages/iteung56/assets/images/background.png
+    - packages/iteung56/assets/images/featherarrowright.svg
+    - packages/iteung56/assets/images/group.svg
+    - packages/iteung56/assets/images/iteung512px2.png
+    - packages/iteung56/assets/images/rectangle190.svg
+    - packages/iteung56/assets/images/carbonaddalt.svg
+    - packages/iteung56/assets/images/background.svg
+    - packages/iteung56/assets/images/frame71.png
+    - packages/iteung56/assets/images/rectangle2965.svg
+    - packages/iteung56/assets/images/profile.png
+    - packages/iteung56/assets/images/group19313.svg
+    - packages/iteung56/assets/images/rectangle2980.svg
+    - packages/iteung56/assets/images/rectangle2981.svg
+    - packages/iteung56/assets/images/rectangle2982.svg
+    - packages/iteung56/assets/images/rectangle2983.svg
+    - packages/iteung56/assets/images/ellipse90.png
+    - packages/iteung56/assets/images/untitleddesign1.png
+    - packages/iteung56/assets/images/fluentlearningapp24filled.svg
+    - packages/iteung56/assets/images/profile.svg
+    - packages/iteung56/assets/images/rectangle192.png
+    - packages/iteung56/assets/images/rectangle194.png
+    - packages/iteung56/assets/images/ellipse20.png
+    - packages/iteung56/assets/images/union.svg
+    - packages/iteung56/assets/images/ellipse17.png
+    - packages/iteung56/assets/images/ellipse18.png
+    - packages/iteung56/assets/images/ellipse19.png
+    - packages/iteung56/assets/images/ellipse28.png
+    - packages/iteung56/assets/images/ellipse29.png
+    - packages/iteung56/assets/images/group62.svg
+    - packages/iteung56/assets/images/rectangle193.png
+    - packages/iteung56/assets/images/ellipse27.png
+    - packages/iteung56/assets/images/blueinbasic21.png
+    - packages/iteung56/assets/images/iteung512px1.png
+    - packages/iteung56/assets/images/ellipse96.png
+    - packages/iteung56/assets/images/ellipse97.png
+    - packages/iteung56/assets/images/cilokrevtanpasaus1.png
+    - packages/iteung56/assets/images/homeindicator.svg
+    - packages/iteung56/assets/images/ellipse95.png
+    - packages/iteung56/assets/images/photo1.png
+    - packages/iteung56/assets/images/rectangle122.png
+    - packages/iteung56/assets/images/mdilogout.svg
+    - packages/iteung56/assets/images/rectangle190.png
+    - packages/iteung56/assets/images/background3.png
+    - packages/iteung56/assets/images/background2.png
+    - packages/iteung56/assets/images/ellipse98.png
+    - packages/iteung56/assets/images/rectangle120.png
+    - packages/iteung56/assets/images/tusuk.svg
+    - packages/iteung56/assets/images/ellipse91.png
+    - packages/iteung56/assets/images/ellipse92.png
+    - packages/iteung56/assets/images/ellipse93.png
+    - packages/iteung56/assets/images/ellipse94.png
+    - packages/iteung56/assets/images/sshadow.svg
+    - packages/iteung56/assets/images/ellipse32.png
+    - packages/iteung56/assets/images/antdesignquestioncircleoutlined.svg
+    - packages/iteung56/assets/images/rectangle2971.svg
+    - packages/iteung56/assets/images/rectangle2974.svg
+    - packages/iteung56/assets/images/rectangle2975.svg
+    - packages/iteung56/assets/images/rectangle2976.svg
+    - packages/iteung56/assets/images/maskot21.png
+    - packages/iteung56/assets/images/cilok1.png
